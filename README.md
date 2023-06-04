@@ -29,9 +29,9 @@ Step 7: Save and run the application.
 
 Program to print the text “Hello World”.
 
-Developed by : DINESH KUMAR M
+Developed by : DINESH B
 
-Registration Number : 212221220011
+Registration Number : 212220220010
 
 ## activity_main.xml :
 
