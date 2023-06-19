@@ -31,8 +31,8 @@ Step 8: Save and run the application.
 ```
 /*
 Program to display animation operation”.
-Developed by: Dinesh B
-Registeration Number : 212220220010
+Developed by: Suriya Prakash B
+Registeration Number : 212220220048
 */
 ```
 **Activity_xml File:**
